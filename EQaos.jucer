@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="rBNQPv" name="EQaos" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              cppLanguageStandard="17">
   <MAINGROUP id="QEt9ar" name="EQaos">
     <GROUP id="{F8F54507-110D-08F9-2B62-409426C2C3D8}" name="Source">
       <FILE id="St4pBo" name="PluginProcessor.cpp" compile="1" resource="0"
